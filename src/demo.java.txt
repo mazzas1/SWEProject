@@ -1,0 +1,7 @@
+public class demo{
+
+public static void main(String[] args){
+println("Hello world")
+//forgot ; to test to see if fails
+}
+}
